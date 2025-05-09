@@ -2,7 +2,7 @@
 
 
 @section('title')
-Online-Courses | Accueil
+Online-Courses - Accueil
 @endsection
 
 @section('content')
